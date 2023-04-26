@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.login{
+  margin: 2rem auto;
+  background-color:black;
+  color:white;
+  padding: 1rem;
+  border-radius: 12px;
+  max-width: 20rem;
+  height: 450px;
+  text-align: center;
+  margin-top: 90px;
+
+  
+
+}
+
+button{
+  background-color:deeppink;
+  color:white;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 10px;
+  margin-top: 50px;
+  height: 2rem;
+  width: 10rem;
+
+}
+#email{
+  background-color:deeppink;
+  color: black;
+  margin-right: 30px;
+  height: 30px;
+  border-radius: 10px;
+}
+.loginbox input[type="text"],input[type="password"]{
+  border: none;
+  border-bottom: 1px solid blue;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+.loginbox input[type="text"],input[type="email"]{
+  border: none;
+  border-bottom: 1px solid blue;
+  background: transparent;
+  outline: none;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+}
+
+
